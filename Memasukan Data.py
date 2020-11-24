@@ -1,0 +1,5 @@
+nama = input("NAMA: ")
+nim = input("NIM: ")
+tugas = int(input("NILAI TUGAS: "))
+uts = int(input("NILAI UTS: "))
+uas = int(input("NILAI UAS: "))
