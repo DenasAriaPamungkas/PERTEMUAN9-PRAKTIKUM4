@@ -1,7 +1,7 @@
 # PERTEMUAN 9
-### NAMA  : DIYAN ARUM MAHESWARI
+### NAMA  : DENAS ARIA PAMUNGKAS
 ### KELAS : TI. 20. A. 1
-### NIM   : 312010133
+### NIM   : 312010089
 _____________________________________________________________________________________________________________________
 Pada di pertemuan ke 9 ini saya diberikan beberapa tugas oleh dosen saya, yaitu diantaranya:
 ## TUGAS PRAKTIKUM 4
