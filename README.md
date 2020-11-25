@@ -72,3 +72,11 @@ Setelah memasukan syntax diatas dan kalian run, maka akan mendapatkan hasil outp
 
 ![TABEL 4](https://user-images.githubusercontent.com/72906579/100140013-ee364800-2ec2-11eb-97c8-97575e89fdd5.jpeg)
 
+____________________________________________________________________________________________________________________________________________
+Lanjut pada soal terakhir, yang dimana disini saya diminta untuk membuat sebuah Flowchart dari diatas
+
+
+Dan kurang lebih seperti itulah bentuk flowchart yang sudah saya buat.
+
+## *****************SELESAI!!***************** ##
+## ***************TERIMAKASIH!!*************** ##
