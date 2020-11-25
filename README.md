@@ -75,6 +75,7 @@ Setelah memasukan syntax diatas dan kalian run, maka akan mendapatkan hasil outp
 ____________________________________________________________________________________________________________________________________________
 Lanjut pada soal terakhir, yang dimana disini saya diminta untuk membuat sebuah Flowchart dari diatas
 
+![FLOW](https://user-images.githubusercontent.com/72906579/100180603-15b10300-2f0b-11eb-9792-99324e3c9be6.png)
 
 Dan kurang lebih seperti itulah bentuk flowchart yang sudah saya buat.
 
